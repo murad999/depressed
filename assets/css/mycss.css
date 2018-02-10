@@ -1,0 +1,130 @@
+.blog-masthead {
+    background-color: #009061;
+ }
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+
+small {
+display: block;
+line-height: 1.428571429;
+color: #999;
+}
+.col-xs-12.col-sm-6.col-md-6.text-center.tst {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.col-sm-6.col-md-6.mest {
+    padding-top: 35px;
+}
+ body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    font-weight: normal;
+}
+.card-body.bst {
+    padding: 40px;
+}
+h2.card-title {
+    color: #88cbd2;
+}
+ul {
+    line-height: 34px;
+    font-size: 16px;
+}
+.btn {
+    font-size: 1.8rem;
+    padding: .85rem 2.13rem;
+    margin: 6px;
+    border-radius: 2px;
+    border: 0;
+    -webkit-transition: .2s ease-out;
+    transition: .2s ease-out;
+    white-space: normal!important;
+    cursor: pointer;
+}
+
+input[type=date], input[type=datetime-local], input[type=email], input[type=number], input[type=password], input[type=search-md], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], textarea.md-textarea {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #bdbdbd;
+    border-radius: 0;
+    outline: 0;
+    height: 2.1rem;
+    width: 100%;
+    font-size: 2rem;
+    box-shadow: none;
+    box-sizing: content-box;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+input[type=radio] {
+    margin: 4px 0 0;
+    margin-top: 1px\9;
+    cursor: pointer;
+    line-height: normal;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    cursor: pointer;
+}
+span.no {
+    /* width: 41px; */
+    height: 0px;
+    background-color: #e254c4;
+    padding: 5px;
+    border-radius: 100%;
+}
+dd, dt {
+    line-height: 2.428571;
+}
+span.ques {
+    padding-left: 10px;
+}
+ /* ************************ */
+
+/*label:hover, radio:focus, select:focus {
+    border: 1px solid #fafafa;
+    -webkit-box-shadow: 0 0 6px #007eff;
+    -moz-box-shadow: 0 0 5px #007eff;
+    box-shadow: 0 0 5px #007eff;
+    background: #EEF;
+    padding: 0 2px 0 0 ;
+}*/
+dd.spaceing {
+    padding: 5px 0px 5px 19px;
+}
+
+span.required {
+    color: red;
+}
+
+.cler {
+    margin: 10px 10px;
+    text-indent: -9999px;
+}
+
+.styleto {
+    margin: 50px 10px;
+}
+
+.page-idx {
+    /*margin: 50px 0px;*/
+}
+.marginTop{
+    margin-top: 115px;
+}
+.or{
+    padding-left: 20px;
+}
+
+
+
+.result {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
